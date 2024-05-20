@@ -1,6 +1,6 @@
 # Улучшение процесса обогащения золота
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/9.Gold_Recovery/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/9.Gold_Recovery/P9_Gold_Recovery.ipynb)
 
 ## Описание проекта
 

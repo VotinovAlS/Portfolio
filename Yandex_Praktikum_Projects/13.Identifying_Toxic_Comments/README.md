@@ -1,6 +1,6 @@
 # Обучение модели классификации комментариев
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/13.Identifying_Toxic_Comments/README.md)    [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/13.Identifying_Toxic_Comments/P13_Identifying_Toxic_Comments.ipynb)
 
 ## Описание проекта
 

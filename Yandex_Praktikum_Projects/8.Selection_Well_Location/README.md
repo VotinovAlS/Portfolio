@@ -1,6 +1,6 @@
 # Выбор локации для скважины
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/8.Selection_Well_Location/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/8.Selection_Well_Location/P8_Selection_Well_Location.ipynb)
 
 ## Описание проекта
 

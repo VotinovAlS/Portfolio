@@ -1,6 +1,6 @@
 # Определение возраста покупателей
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/14.Age_prediction/README.md)    [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/14.Age_prediction/P14_Age_prediction.ipynb)
 
 ## Описание проекта
 

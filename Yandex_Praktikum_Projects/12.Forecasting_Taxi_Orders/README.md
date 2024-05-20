@@ -1,6 +1,6 @@
 # Прогноз количества заказов для сервиса такси
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/12.Forecasting_Taxi_Orders/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/12.Forecasting_Taxi_Orders/P12_Forecasting_Taxi_Orders.ipynb)
 
 ## Описание проекта
 

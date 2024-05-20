@@ -1,6 +1,6 @@
 # Предсказание температуры сплава
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/15.Steel_temperature_prediction/README.md)    [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/15.Steel_temperature_prediction/P15_Steel_temperature_prediction.ipynb)
 
 ## Описание проекта
 

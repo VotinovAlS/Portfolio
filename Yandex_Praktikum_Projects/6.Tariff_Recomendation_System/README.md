@@ -1,6 +1,6 @@
 # Система рекомендаций тарифов для «Мегалайн»
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/6.Tariff_Recomendation_System/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/6.Tariff_Recomendation_System/P6_Tariff_Recomendation_System.ipynb)
 
 ## Описание проекта
 

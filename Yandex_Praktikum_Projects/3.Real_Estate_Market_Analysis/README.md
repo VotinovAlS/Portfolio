@@ -1,6 +1,6 @@
 # Анализ рынка недвижимости в Санкт-Петербурге
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/3.Real_Estate_Market_Analysis/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/3.Real_Estate_Market_Analysis/P3_Real_Estate_Market_Analysis.ipynb)
 
 ## Описание проекта
 

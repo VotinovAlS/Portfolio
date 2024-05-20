@@ -1,6 +1,6 @@
 # Защита данных клиентов страховой компании
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/10.Data_Encryption/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/10.Data_Encryption/P10_Data_Encryption.ipynb)
 
 ## Описание проекта
 

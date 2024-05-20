@@ -1,6 +1,6 @@
 # Исследование данных популярного сервиса аренды самокатов GoFast
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/4.Kicksharing_Tariffs_Analysis/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/4.Kicksharing_Tariffs_Analysis/P4_Kicksharing_Tariffs_Analysis.ipynb)
 
 ## Описание проекта
 

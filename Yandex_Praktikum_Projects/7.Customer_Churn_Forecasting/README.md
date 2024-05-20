@@ -1,6 +1,6 @@
 # Прогнозирование оттока клиентов «Бета-Банка»
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[md](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/7.Customer_Churn_Forecasting/README.md)     [ipynb](https://github.com/VotinovAlS/Portfolio/blob/master/Yandex_Praktikum_Projects/7.Customer_Churn_Forecasting/P7_Customer_Churn_Forecasting.ipynb)
 
 ## Описание проекта
 
